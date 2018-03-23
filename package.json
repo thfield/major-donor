@@ -1,0 +1,13 @@
+{
+  "name": "major-donor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "thfield <thfield@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "d3-dsv": "^1.0.8",
+    "git": "^0.1.5",
+    "jsutils": "https://github.com/thfield/jsutils"
+  }
+}
